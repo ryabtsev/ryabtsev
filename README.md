@@ -21,6 +21,8 @@
 
 I am a Software Engineer with over 10 years of experience in building high-load systems with Python. I have a strong background in microservices architecture, API design, and user account management. I am passionate about creating robust and scalable solutions.
 
+**[My CV](https://ainvention.net/cv/)**
+
 ### 🛠️ Skills
 
 <p align="left">
@@ -43,18 +45,6 @@ I am a Software Engineer with over 10 years of experience in building high-load 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
 </p>
-
-### Experience
-
-- **Software Engineer** @ [Wargaming](https://wargaming.com/) (Dec 2014 - Aug 2025)
-- **Python Developer** @ X-tim (Nov 2011 - Sep 2014)
-- **Full-stack Developer** @ Admitad Global (May 2010 - Oct 2011)
-- **Web Developer** @ Pitri design-studio (Nov 2008 - Apr 2010)
-
-### 🎓 Education
-
-- **Belarusian National Technical University**
-  - High School Diploma, Intelligent Systems (2004 - 2009)
 
 ### 🚀 Projects
 
