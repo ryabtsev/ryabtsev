@@ -2,6 +2,8 @@
 
 10+ years in engineering 1M+ CCU systems in Python, in user accounts and compliance domain
 
+Significant experience in creating microservices within high-load projects, API design on Python. Additionally Javascript for complex flows. User-facing features with Django(DRF) and AsyncIO (aiohttp) for background tasks, internal services. Engineered solutions for data migration between realms. Service maintenance, monitoring, deployment and incident resolution.
+
 ### 📃 My Resume/CV: **[ainvention.net/cv](https://ainvention.net/cv)**
 
 I've also a bit of experience in contributing to open source projects like [Django](https://www.djangoproject.com/) and [isort](https://pypi.org/project/isort/).
