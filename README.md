@@ -8,7 +8,7 @@ I've also contributed to open source projects like [Django](https://www.djangopr
 
 ### 🚀 My projects
 
-- [ainvention.net] **[CV Overlay: Actions Detection](https://wrestling.ainvention.net)**: A distributed workflow for multi-model training and inference for action detection in videos.
-- [ainvention.net] **[@MurphChallengeBot](https://t.me/MurphChallengeBot)**: A Telegram bot.
-- [APITESTS] **[AI-Powered Runtime Test Generator for Microservices](https://pypi.org/project/apitests/)**: An open-source project that instantly generates e2e tests for code written manually or AI-assisted.
-- [APISTUBS] **[apistubs](https://github.com/ryabtsev/apistubs)**: Active stubs service, which can interact with APITESTS generator and LLMs
+- **[ainvention.net]** **[CV Overlay: Actions Detection](https://wrestling.ainvention.net)**: A distributed workflow for multi-model training and inference for action detection in videos.
+- **[ainvention.net]** **[@MurphChallengeBot](https://t.me/MurphChallengeBot)**: A Telegram bot.
+- **[APITESTS]** **[AI-Powered Runtime Test Generator for Microservices](https://pypi.org/project/apitests/)**: An open-source project that instantly generates e2e tests for code written manually or AI-assisted.
+- **[APISTUBS]** **[apistubs](https://github.com/ryabtsev/apistubs)**: Active stubs service, which can interact with APITESTS generator and LLMs
