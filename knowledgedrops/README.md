@@ -2,7 +2,7 @@
 
 **Knowledge Drops (K-Drops)** is a project designed to act as a bridge between your personal knowledge and Large Language Models (LLMs).
 
-The primary goals of OKD are:
+The primary goals of K-Drops are:
 
 1.  **Create Knowledge Snapshots:** To allow you to create small, concise snapshots of your own knowledge on any given topic. These "knowledge drops" act as a personal knowledge base.
 2.  **Personalized LLM Interaction:** To serve as a proxy between you and an LLM. By providing your knowledge drops to the LLM, it can understand your context and provide more relevant and personalized responses.
