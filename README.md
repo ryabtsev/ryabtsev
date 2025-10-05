@@ -2,7 +2,7 @@
 
 10+ years in engineering 1M+ CCU systems in Python, in user accounts and compliance domain
 
-### 📃 My CV: **[ainvention.net/cv](https://ainvention.net/cv)**
+### 📃 My Resume/CV: **[ainvention.net/cv](https://ainvention.net/cv)**
 
 I've also a bit of experience in contributing to open source projects like [Django](https://www.djangoproject.com/) and [isort](https://pypi.org/project/isort/).
 
