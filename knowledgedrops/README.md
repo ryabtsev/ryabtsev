@@ -1,6 +1,6 @@
-# [OKD] Open Knowledge Drops
+# [K-Drops] Knowledge Drops
 
-**Open Knowledge Drops (OKD)** is a project designed to act as a bridge between your personal knowledge and Large Language Models (LLMs).
+**Knowledge Drops (K-Drops)** is a project designed to act as a bridge between your personal knowledge and Large Language Models (LLMs).
 
 The primary goals of OKD are:
 
