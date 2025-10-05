@@ -1,6 +1,6 @@
 # Software Engineer (Python) / AI Enthusiast
 
-10+ years in engineering 1M+ CCU systems in Python, in user accounts and compliance domain
+**10+ years in engineering 1M+ CCU systems in Python, in user accounts and compliance domain**
 
 Significant experience in creating microservices within high-load projects, API design on Python. Additionally Javascript for complex flows. User-facing features with Django(DRF) and AsyncIO (aiohttp) for background tasks, internal services. Engineered solutions for data migration between realms. Service maintenance, monitoring, deployment and incident resolution.
 
