@@ -4,6 +4,8 @@
 
 Significant experience in creating microservices within high-load projects, API design on Python. Additionally Javascript for complex flows. User-facing features with Django(DRF) and AsyncIO (aiohttp) for background tasks, internal services. Engineered solutions for data migration between realms. Service maintenance, monitoring, deployment and incident resolution.
 
+Python, Django, Asyncio, aiohttp, Pytest, Postgres, MySQL, RabbitMQ, RAML/OpenAPI , HTML, JavaScript, Vue.js, CI/CD, Jenkins, Docker, K8s, Prometheus, OpenTelemetry, Grafana, Boto3 (AWS)
+
 ### 📃 My Resume/CV: **[ainvention.net/cv](https://ainvention.net/cv)**
 
 I've also a bit of experience in contributing to open source projects like [Django](https://www.djangoproject.com/) and [isort](https://pypi.org/project/isort/).
