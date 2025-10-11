@@ -1,4 +1,4 @@
-# Software Engineer (Python) / AI Enthusiast
+# Software Engineer (Python / AI)
 
 **10+ years in engineering 1M+ CCU systems in Python, in user accounts and compliance domain**
 
